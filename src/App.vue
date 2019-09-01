@@ -5,7 +5,6 @@
 <script>
 import index from './pages/Index'
 export default {
-  name: 'app',
   components: {
     index
   }
